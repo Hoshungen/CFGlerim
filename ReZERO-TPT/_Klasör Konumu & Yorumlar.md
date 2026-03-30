@@ -27,6 +27,7 @@
 * Oyunu her başlattığımda ALT+ENTER ile Fullscreen yapmak gerekiyordu.
 * PC'de Klavyeyle oynarken Oyun Koluna ait tuşların görünmesi hoş değildi.
 * Klavyenin ok tuşlarına alıştığım için WASD tuşlarının ataması hoşuma gitmemişti.
+* V-Sync açıkken Input Lag gözlemlemedim. Yırtılmaları engelleyip, yüksek Yenileme Hızlarını desteklesin diye açık bıraktım.
 
 ### Yorumlar
 * "Camera Up..." gibi özellikleri oyun içi test etmedim.
