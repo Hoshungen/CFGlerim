@@ -1,0 +1,40 @@
+{
+    "core-dump": true,
+    "contoroller-guide": 2,
+    "window-mode": "Fullscreen",
+    "vsync": true,
+    "fullscreen": {
+        "resolution": null,
+        "vsync": true
+    },
+    "anisotropic-filtering": 16,
+    "anti-aliasing": true,
+    "ssao": true,
+    "shadow": true,
+    "keyboard-settings": {
+        "KBD_LU": [],
+        "KBD_LL": [],
+        "KBD_LD": [],
+        "KBD_LR": [],
+        "KBD_RU": ["TAB"],
+        "KBD_RL": ["LEFT_CONTROL"],
+        "KBD_RD": ["ENTER", "SPACE"],
+        "KBD_RR": ["BACKSPACE", "ESCAPE"],
+        "KBD_SELECT": ["SPACE"],
+        "KBD_START": ["Z"],
+        "KBD_L1": ["Q"],
+        "KBD_R1": ["E"],
+        "KBD_L2": ["F"],
+        "KBD_R2": ["F1", "1"],
+        "KBD_L3": [],
+        "KBD_R3": [],
+        "KBD_MOVE_FORWARD": ["W", "UP"],
+        "KBD_MOVE_LEFT": ["A", "LEFT"],
+        "KBD_MOVE_BACKWARD": ["S", "DOWN"],
+        "KBD_MOVE_RIGHT": ["D", "RIGHT"],
+        "KBD_CAMERA_UP": ["UP"],
+        "KBD_CAMERA_LEFT": ["LEFT"],
+        "KBD_CAMERA_DOWN": ["DOWN"],
+        "KBD_CAMERA_RIGHT": ["RIGHT"]
+    }
+}
