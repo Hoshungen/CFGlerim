@@ -3,8 +3,9 @@
     "contoroller-guide": 2,
     "window-mode": "Fullscreen",
     "vsync": true,
-    "fullscreen": {
-        "resolution": null,
+    "fullscreen":
+	{
+        "resolution": {"width": 1920, "height": 1080},
         "vsync": true
     },
     "anisotropic-filtering": 16,
