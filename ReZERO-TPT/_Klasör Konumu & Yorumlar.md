@@ -4,11 +4,8 @@
 * Sürüm: **4.2.12**
 
 ## Klasör Konumu
-* C:\Users\[KULLANICIADI]\Documents\My Games\ReZERO-TPT
-* Oyunun ana dizininde yapılan değişiklikler işe yaramıyor.
-
-## Yorumlar
-* "Camera Up..." gibi özellikleri oyun içi test etmedim.
+* ```C:\Users\[KULLANICIADI]\Documents\My Games\ReZERO-TPT```
+* * Oyunun ana dizininde yapılan değişiklikler işe yaramıyor.
 
 ## Tuşlar
 | Tuş | Özelliği | Ataması | Diğer |
@@ -25,12 +22,15 @@
 | BOŞLUK | Seç? | KBD_SELECT |  |
 | ALT + ENTER | Tam Ekran/Pencere modu | | |
 
-### Yedek
-* ```"KBD_RR": ["BACKSPACE", "ESCAPE"],```
-* ```"KBD_RL": ["LEFT_CONTROL"],```
-
 ## Notlar
 * contoroller-guide -- 0=Xbox, 1=Playstation, 2=PC
 * Oyunu her başlattığımda ALT+ENTER ile Fullscreen yapmak gerekiyordu.
 * PC'de Klavyeyle oynarken Oyun Koluna ait tuşların görünmesi hoş değildi.
 * Klavyenin ok tuşlarına alıştığım için WASD tuşlarının ataması hoşuma gitmemişti.
+
+### Yorumlar
+* "Camera Up..." gibi özellikleri oyun içi test etmedim.
+
+### Yedek
+* ```"KBD_RR": ["BACKSPACE", "ESCAPE"],```
+* ```"KBD_RL": ["LEFT_CONTROL"],```
