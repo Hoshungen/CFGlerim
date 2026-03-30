@@ -24,7 +24,7 @@
 
 ## Notlar
 * contoroller-guide -- 0=Xbox, 1=Playstation, 2=PC
-* window-mode -- "Fullscreen", "Windowed"
+* window-mode -- "Fullscreen", "Windowed" "Borderless"
 * Oyunu her başlattığımda ALT+ENTER ile Fullscreen yapmak gerekiyordu.
 * PC'de Klavyeyle oynarken Oyun Koluna ait tuşların görünmesi hoş değildi.
 * Klavyenin ok tuşlarına alıştığım için WASD tuşlarının ataması hoşuma gitmemişti.
