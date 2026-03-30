@@ -12,7 +12,7 @@
 
 ## Tuşlar
 | Tuş | Özelliği | Ataması | Diğer |
-|---|---| --- |  |
+|---|---|---|---|
 | ENTER | Sonraki | KBD_RD |  |
 | BACKSPACE | Diyalog Penceresini-Pencereyi Aç/Kapat | KBD_RR |  |
 | TAB | Eşya Listesi | KBD_RU | Q ve E tuşlarıyla yönlendiriliyor? |
