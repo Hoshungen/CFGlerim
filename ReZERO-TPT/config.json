@@ -1,7 +1,7 @@
 {
     "core-dump": true,
     "contoroller-guide": 2,
-    "window-mode": "Fullscreen",
+    "window-mode": "Borderless",
     "vsync": true,
     "fullscreen":
 	{
